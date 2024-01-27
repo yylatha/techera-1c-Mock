@@ -1,0 +1,22 @@
+.li-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: 25px;
+  margin-bottom: 25px;
+}
+.course-name-para {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #1e293b;
+  margin-left: 7px;
+}
+.image-course {
+  width: 100px;
+  height: 80px;
+}
+.link {
+  text-decoration: none;
+}
